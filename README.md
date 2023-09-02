@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
 
 <br>
 
@@ -59,7 +59,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="C:\github update\handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="C:\github update\handshake.gif" width ="50">
 
 <br>
 <div align='left'>
